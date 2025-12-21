@@ -16,5 +16,6 @@
 
 无需下载文件，直接在 VPS 终端执行以下命令即可启动菜单：
 
-```bash
-wget -O swap.sh [https://raw.githubusercontent.com/K23Flux/swap-/main/swap.sh](https://raw.githubusercontent.com/K23Flux/swap-/main/swap.sh) && chmod +x swap.sh && ./swap.sh
+```
+wget -O swap.sh https://raw.githubusercontent.com/K23Flux/swap-/main/swap.sh && chmod +x swap.sh && ./swap.sh
+```
